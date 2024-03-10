@@ -1,0 +1,3 @@
+/Users/blank/repo_pro/project-games/Games101/Assignment/A0/build/CMakeFiles/Transformation.dir
+/Users/blank/repo_pro/project-games/Games101/Assignment/A0/build/CMakeFiles/edit_cache.dir
+/Users/blank/repo_pro/project-games/Games101/Assignment/A0/build/CMakeFiles/rebuild_cache.dir
