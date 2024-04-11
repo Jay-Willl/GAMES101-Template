@@ -8,15 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/blank/repo_pro/project-games/Games101/Assignment/A0/main.cpp" "CMakeFiles/Transformation.dir/main.cpp.o" "gcc" "CMakeFiles/Transformation.dir/main.cpp.o.d"
+  "/home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment0/main.cpp" "CMakeFiles/Transformation.dir/main.cpp.o" "gcc" "CMakeFiles/Transformation.dir/main.cpp.o.d"
   )
 
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
-  )
-
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

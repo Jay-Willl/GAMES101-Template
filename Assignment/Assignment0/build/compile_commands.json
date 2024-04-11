@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment0/build",
+  "command": "/usr/bin/g++ -isystem /home/blank/repo/vcpkg/installed/x64-linux/include/eigen3 -g -o CMakeFiles/Transformation.dir/main.cpp.o -c /home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment0/main.cpp",
+  "file": "/home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment0/main.cpp"
+}
+]
